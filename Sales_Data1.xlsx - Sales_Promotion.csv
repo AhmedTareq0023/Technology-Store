@@ -1,0 +1,11 @@
+PromotionKey,PromotionName,PromotionDescription,PromotionType
+1,Regular Sales,Regular Sales,No Discount
+2,New Year Promotion,New Year Promotion,Seasonal Discount
+3,Ramadan Promotion,Ramadan Promotion,Seasonal Discount
+4,Hammartan Promotion,Hammartan Promotion,Seasonal Discount
+5,Easter Promotion,Easter Promotion,Seasonal Discount
+6,Xmas Holiday Promotion,Xmas Holiday Promotion,Seasonal Discount
+7,Anniversary Promotion,Anniversary Promotion,Seasonal Discount
+8,Black Friday Promotion,Black Friday Promotion,Seasonal Discount
+9,Summer Promotion,Summer Promotion,Seasonal Discount
+10,Sallah Promotion,Sallah Promotion,Seasonal Discount

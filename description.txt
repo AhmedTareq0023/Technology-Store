@@ -1,0 +1,1 @@
+It's a Technology Store, Using SQL & Power BI I modeled, checked cleaning of data, explored meaningful insights, and analyzed the sales & profit movement during the four years in an interactive Dashboard. I used Star Schema to handle data which makes accessing it easy and visualize it through various charts, tables, and slicers.
