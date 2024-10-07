@@ -1,6 +1,6 @@
 # Sales Performance Report
 # consists of Two Dashboards rich with data
-The Dashboards contain :--
+The Dashboards contain visuals as :--
 -- Total Sales
 -- Total Profit
 -- Total Quantity
